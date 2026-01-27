@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm about to graduate.<br>🔭 I’m currently working on SecurePass Project<br>
+🎓 I'm about to graduate.<br>🔭 I’m currently working on Worklog Project<br>
 
 
 ## 🌐 Socials:
